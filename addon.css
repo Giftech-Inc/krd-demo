@@ -1,0 +1,43 @@
+.estateBox .linkArea {
+    background: whitesmoke;
+}
+
+.estateBox {
+    border-top:#7aca00 3px solid;
+}
+
+.btn.pnk {
+    background:green;
+}
+
+#side .acordionswitchBtn h2 {
+    background:green;
+ }
+
+ #side h3 {
+    background:#ebf6dd;
+ }
+ 
+ #side h3:after {
+    background: none;
+ }
+
+ h4:before, .sq:before, .profHead:before {
+    color: #70a27f;
+}
+
+.pageTitle h2:before {
+    background:green;
+}
+
+.tpo-pic{
+    width: 100%;
+    margin: 0px 170px;
+    margin-bottom: 30px;
+    height: 40vh;
+}
+
+.top-contener {
+    display: flex;
+    justify-content: center;
+}
